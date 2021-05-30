@@ -8,7 +8,7 @@ eureka:
     hostname: localhost
 spring:
     datasource:
-      url: jdbc:mysql://localhost:3306/groupchat
+      url: jdbc:mysql://localhost:3306/mychat
       username: sa
       password: password
     jpa:
